@@ -1,7 +1,7 @@
 # Microcontroller Lab
 ------------------------
 
-##Lab 1 : Simple Light Sensor
+Lab 1 : Simple Light Sensor
 - การเขียนโค้ดคำสั่งให้ microcontroller ทำงาน (ไฟสว่าง/ไฟดับ)
 
 Lab 2 : Light Sensor to Line
